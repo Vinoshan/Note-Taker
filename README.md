@@ -46,7 +46,7 @@ The Note Taker App is a simple web application that allows users to create, save
 
 ## Deployed App
 
-You can access the deployed app on Heroku: [My Awesome Note Taker App](https://dashboard.heroku.com/apps/shielded-earth-74206)
+You can access the deployed app on Heroku: [My Awesome Note Taker App](https://shielded-earth-74206-fa2b32ba0b32.herokuapp.com/)
 
 ## Technologies Used
 

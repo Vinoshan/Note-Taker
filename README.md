@@ -13,6 +13,7 @@ The Note Taker App is a simple web application that allows users to create, save
   - [Usage](#usage)
   - [Features](#features)
   - [Screenshots](#screenshots)
+  - [Deployed App](#deployed-app)
   - [Technologies Used](#technologies-used)
   - [Contributing](#contributing)
   - [License](#license)
@@ -42,6 +43,10 @@ The Note Taker App is a simple web application that allows users to create, save
 
 ![Screenshot 2](./public/assets/images/screenshot2.jpeg)
 *Screenshot of NoteTaker*
+
+## Deployed App
+
+You can access the deployed app on Heroku: [My Awesome Note Taker App](https://your-heroku-app-name.herokuapp.com/)
 
 ## Technologies Used
 

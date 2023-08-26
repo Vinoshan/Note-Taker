@@ -65,9 +65,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
 If you have any questions, feedback, or inquiries, feel free to contact the developer:
 
-Email: vinoshan@outlook.com 
-GitHub: github.com/vinoshan 
-LinkedIn: https://www.linkedin.com/in/vinoshank/
+- Email: vinoshan@outlook.com 
+- GitHub: github.com/vinoshan 
+- LinkedIn: https://www.linkedin.com/in/vinoshank/
